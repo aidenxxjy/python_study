@@ -38,7 +38,7 @@ python -m venv 가상환경명
 
 	맥
 	source ./activate : 가상환경 진입
-	source ./deactivate : 가상환경 해제
+	source ./deactivate : 가상환경 해제.
 
 	command : code 실행
 '''
