@@ -32,7 +32,6 @@ python -m venv 가상환경명
 	맥 : bin
 
 	윈도우 
-
 	activate.bat : 가상환경 진입
 	deactivate.bat : 가상환경 해제
 
